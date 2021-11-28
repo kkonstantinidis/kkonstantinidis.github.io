@@ -1,7 +1,7 @@
 ---
-title: About
-icon: fas fa-info-circle
-order: 4
+title: Research
+icon: fas fa-flask
+order: 1
 ---
 
 
