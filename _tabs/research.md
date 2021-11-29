@@ -34,6 +34,6 @@ Theoretical and Applied Data Science Initiative, Ames, IA.
 
 ## Research projects
 - [Robust Machine Learning]({% post_url 2021-11-28-robust-machine-learning %})
-- [Coding & Distributed Computing]({% post_url 2021-11-28-robust-machine-learning %})
-- [Aggregated MapReduce]({% post_url 2021-11-28-robust-machine-learning %})
-- [Straggler Mitigation in Matrix Multiplication]({% post_url 2021-11-28-robust-machine-learning %})
+- [Coding & Distributed Computing]({% post_url 2021-11-28-coding-&-distributed-computing %})
+- [Aggregated MapReduce]({% post_url 2021-11-28-aggregated-mapreduce %})
+- [Straggler Mitigation in Matrix Multiplication]({% post_url 2021-11-28-straggler-mitigation-in-matrix-multiplication %})

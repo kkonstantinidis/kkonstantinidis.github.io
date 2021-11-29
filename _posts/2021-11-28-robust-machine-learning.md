@@ -5,7 +5,7 @@ categories: [Research]
 tags: []     # TAG names should always be lowercase
 math: true
 ---
-Relevant paper: [C3].
+Relevant paper: [[C3]({{ site.baseurl }}{% link _tabs/research.md %})].
 
 In this work, we examine distributed deep learning setups in which computing devices may return adversarial or erroneous computations. This behavior is called *Byzantine* and is typically attributed to adversarial attacks on the nodes or failures/crashes thereof. As a result, the corresponding gradients are potentially unreliable for use in training and model updates. Achieving robustness in the face of Byzantine node behavior (which can cause gradient-based methods to converge slowly or converge to a bad solution) is of crucial importance and has attracted significant attention in the community. Our redundancy-based method *ByzShield* leverages the properties of bipartite expander graphs for the assignment of tasks to workers; this helps to effectively mitigate the effect of the Byzantine behavior.
 
