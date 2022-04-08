@@ -7,7 +7,7 @@ order: 1
 
 ## Publications
 ### Preprint
-- [P1] **K. Konstantinidis** and A. Ramamoorthy, "[Aspis: A Robust Detection System for Distributed Learning]({{ site_url }}/kostas_files/aspis_2021.pdf)," (preprint), May 2021
+- [P1] **K. Konstantinidis** and A. Ramamoorthy, "[Aspis: Robust Detection for Distributed Learning]({{ site_url }}/kostas_files/aspis_2022.pdf)," (preprint), January 2022.
 
 ### Journal papers
 {: #journal-papers }
@@ -30,9 +30,9 @@ order: 1
 July 2020,  
 Theoretical and Applied Data Science Initiative, Ames, IA.
 
-## Paper review duties
-- IEEE Transactions on Communications (TCOM).
-- IEEE International Symposium on Information Theory (ISIT).
+## Reviewing service
+- IEEE Transactions on Communications (TCOM) (2022, 2021, 2020, 2019).
+- IEEE International Symposium on Information Theory (ISIT) (2021, 2020, 2019).
 
 ## Research projects
 - [Robust Machine Learning]({% post_url 2021-11-28-robust-machine-learning %})
