@@ -12,9 +12,9 @@ order: 1
 ### Journal papers
 {: #journal-papers }
 - [J2] **K. Konstantinidis** and A. Ramamoorthy, "[Resolvable Designs for Speeding Up Distributed Computing]({{ site_url }}/kostas_files/ton_2020.pdf)," IEEE/ACM Transactions on Networking (ToN), May 2020.  
-[Source code](https://bitbucket.org/kkonstantinidis/camrmm/src/master/){:target="_blank" rel="noopener"}
+[Source code](https://github.com/kkonstantinidis/camrmm){:target="_blank" rel="noopener"}
 - [J1] L. Tang, **K. Konstantinidis** and A. Ramamoorthy, "[Erasure Coding for Distributed Matrix Multiplication for Matrices With Bounded Entries]({{ site_url }}/kostas_files/comml_2019.pdf)," IEEE Communications Letters (CL), January 2019.  
-[Source code](https://bitbucket.org/kkonstantinidis/stragglermitmm/src/master/){:target="_blank" rel="noopener"}
+[Source code](https://github.com/kkonstantinidis/stragglermitmm){:target="_blank" rel="noopener"}
 
 ### Conference papers
 {: #conference-papers }
@@ -24,7 +24,7 @@ order: 1
 [Presentation video](https://slideslive.com/38952762/oral-byzshield-an-efficient-and-robust-system-for-distributed-training?ref=speaker-70630-latest){:target="_blank" rel="noopener"}
 - [C2] **K. Konstantinidis** and A. Ramamoorthy, "[CAMR: Coded Aggregated MapReduce]({{ site_url }}/kostas_files/isit_2019.pdf)," IEEE International Symposium on Information Theory (ISIT), July 2019.
 - [C1] **K. Konstantinidis** and A. Ramamoorthy, "[Leveraging Coding Techniques for Speeding up Distributed Computing]({{ site_url }}/kostas_files/globecom_2018.pdf)," IEEE Global Communications Conference (GLOBECOM), December 2018.  
-[Source code](https://bitbucket.org/kkonstantinidis/codedterasort/src/master/){:target="_blank" rel="noopener"}
+[Source code](https://github.com/kkonstantinidis/codedterasort){:target="_blank" rel="noopener"}
 
 ## Seminar
 - Speeding Up Distributed Computing via Coding ([video](https://www.youtube.com/watch?v=KiSSZ6zXR7Q){:target="_blank" rel="noopener"}),  
