@@ -5,6 +5,11 @@ order: 2
 ---
 
 
+## Software Engineering Intern at Meta (Facebook)
+Menlo Park, CA | 05/2022 – Present  
+
+- Facebook App Commerce ML Feature Foundation
+
 ## Software Engineering Intern at C3.ai
 Redwood City, CA | 06/2021 – 08/2021  
 
