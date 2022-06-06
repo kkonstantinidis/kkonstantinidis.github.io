@@ -27,9 +27,9 @@ order: 1
 [Source code](https://github.com/kkonstantinidis/codedterasort){:target="_blank" rel="noopener"}
 
 ## Seminar
-- Speeding Up Distributed Computing via Coding ([video](https://www.youtube.com/watch?v=KiSSZ6zXR7Q){:target="_blank" rel="noopener"}),  
-July 2020,  
-Theoretical and Applied Data Science Initiative, Ames, IA.
+- Speeding Up Distributed Computing via Coding ([video](https://www.youtube.com/watch?v=KiSSZ6zXR7Q){:target="_blank" rel="noopener"})  
+July 2020  
+Theoretical and Applied Data Science Initiative, Ames, IA
 
 ## Reviewing service
 - IEEE Transactions on Communications (TCOM) (2022, 2021, 2020, 2019).
