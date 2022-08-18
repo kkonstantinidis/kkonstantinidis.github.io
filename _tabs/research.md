@@ -6,8 +6,8 @@ order: 1
 
 
 ## Publications
-<!-- ### Preprint -->
-<!-- - [P1] **K. Konstantinidis** and A. Ramamoorthy, "[Aspis: Robust Detection for Distributed Learning]({{ site_url }}/kostas_files/aspis_2022.pdf)," (preprint), January 2022. -->
+### Preprint
+- [P1] **K. Konstantinidis** and A. Ramamoorthy, "[Efficient Detection and Filtering Systems for Distributed Training]({{ site_url }}/kostas_files/aspis_aspis_plus_2022.pdf)," (preprint), August 2022.
 
 ### Journal papers
 {: #journal-papers }
