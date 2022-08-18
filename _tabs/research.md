@@ -38,6 +38,7 @@ Theoretical and Applied Data Science Initiative, Ames, IA
 - IEEE International Symposium on Information Theory (ISIT) (2021, 2020, 2019).
 
 ## Research projects
+- [Robust Machine Learning - Detection]({% post_url 2021-11-28-robust-machine-learning-detection %})
 - [Robust Machine Learning - Filtering]({% post_url 2021-11-28-robust-machine-learning-filtering %})
 - [Coding & Distributed Computing]({% post_url 2021-11-28-coding-&-distributed-computing %})
 - [Aggregated MapReduce]({% post_url 2021-11-28-aggregated-mapreduce %})
