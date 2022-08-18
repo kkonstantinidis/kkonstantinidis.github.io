@@ -31,8 +31,8 @@ A very useful metric that serves as a good indicator of the convergence of the m
 Some of our experimental results on CIFAR-10 using $K=25$ workers are shown in Figures 1 and 2. The metric is the top-1 test accuracy. Our method supersedes other schemes even for large values of $q$ (e.g., when $q=5$ out of the $K=25$ workers are under attack).
 
 
-![Figure 1](/kostas_files/top1_fig_62.png){: width="500" }
+![Figure 1](/kostas_files/top1_fig_62.png){: width="400" }
 *Figure 1: ALIE attack and median-based defenses (CIFAR-10).*
 
-![Figure 2](/kostas_files/top1_fig_62.png){: width="500" }
+![Figure 2](/kostas_files/top1_fig_62.png){: width="400" }
 *Figure 2: Constant attack and signSGD-based defenses (CIFAR-10).*
