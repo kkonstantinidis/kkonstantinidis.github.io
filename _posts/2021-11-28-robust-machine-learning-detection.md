@@ -5,7 +5,7 @@ categories: [Research]
 tags: []     # TAG names should always be lowercase
 math: true
 ---
-Relevant paper: [[P1]({{ site.baseurl }}{% link _tabs/research.md %}), [C4]({{ site.baseurl }}{% link _tabs/research.md %})].
+Relevant papers: [[P1]({{ site.baseurl }}{% link _tabs/research.md %}), [C4]({{ site.baseurl }}{% link _tabs/research.md %})].
 
 The following article examines the problem of *Byzantine* behavior in distributed learning setups from the lens of detection. The problem has been introduced in another [article]({% post_url 2021-11-28-robust-machine-learning-filtering %}) discussing our previously proposed method *ByzShield*. In this work, our objective is to initially attempt to detect which nodes behave adversarially or erroneously before resorting to gradient aggregation. We consider attack models ranging from strong ones: $q$ omniscient adversaries with full knowledge of the defense protocol that can change from iteration to iteration to weak ones: $q$ randomly chosen adversaries with limited collusion abilities which only change every few iterations at a time. Our algorithms rely on redundant task assignments coupled with the detection of adversarial behavior. Specifically, we consider clusters of $K$ workers, where each gradient task is assigned to $r$ of them.
 
@@ -30,8 +30,8 @@ For weaker attacks considered for Aspis+, i.e., when the adversaries change only
 
 We present top-1 classification accuracy experiments on the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) data set for various gradient distortion attacks coupled with choice/behavior patterns of the adversarial nodes. Under the most sophisticated distortion methods such as [ALIE](https://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning){:target="_blank" rel="noopener"}, the performance gap between Aspis/Aspis+ and other state-of-the-art methods is substantial, e.g., for Aspis, it is $43\%$ in the strong scenario (*cf.* Figure 4), and for Aspis+, $19\%$ in the weak scenario (*cf.* Figure 5).
 
-![Figure 4](/kostas_files/top1_fig_94.png){: width="500" }
+![Figure 4](/kostas_files/top1_fig_94.png){: width="400" }
 *Figure 4: ALIE distortion under optimal attack scenarios, coordinate-wise median-based defenses, CIFAR-10, K=15.*
 
-![Figure 5](/kostas_files/top1_fig_111.png){: width="500" }
+![Figure 5](/kostas_files/top1_fig_111.png){: width="400" }
 *Figure 5: ALIE distortion under weak attack scenarios (random Byzantines), coordinate-wise median-based defenses, CIFAR-10, K=15.*
