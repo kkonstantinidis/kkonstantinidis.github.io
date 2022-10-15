@@ -15,7 +15,7 @@ Midwest Machine Learning Symposium (MMLS), Madison, WI
 - **Teaching Excellence Award**  
 April 2019  
 Iowa State University, Ames, IA
-- **Academic Excellence Award**  
+- **Graduate Scholarship**  
 June 2018  
 Gerondelis Foundation, Lynn, MA
 - **John Hatsios and Andromache Tsandes Hatsios Award**  

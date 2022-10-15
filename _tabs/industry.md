@@ -7,7 +7,7 @@ order: 2
 ## Software Engineer at C3 AI
 Redwood City, CA | 09/2022 – Present  
 
-I am a member of the Platform - Data team.
+I am a member of the Platform - Data team working on machine learning infrastructure problems.
 
 ## Software Engineer Intern at Meta (Facebook)
 Menlo Park, CA | 05/2022 – 08/2022  
