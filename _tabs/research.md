@@ -19,7 +19,7 @@ order: 1
 
 ### Conference papers
 {: #conference-papers }
-- [C4] **K. Konstantinidis** and A. Ramamoorthy, "[Aspis: Robust Detection for Distributed Learning]({{ site_url }}/kostas_files/aspis_2022.pdf)," *IEEE International Symposium on Information Theory (ISIT)*, July 2022.  
+- [C4] **K. Konstantinidis** and A. Ramamoorthy, "[Aspis: Robust Detection for Distributed Learning]({{ site_url }}/kostas_files/isit_2022.pdf)," *IEEE International Symposium on Information Theory (ISIT)*, July 2022.  
 [Source code](https://github.com/kkonstantinidis/Aspis){:target="_blank" rel="noopener"}  
 [Presentation video](https://youtu.be/nyOdQOle8bg){:target="_blank" rel="noopener"}
 - [C3] **K. Konstantinidis** and A. Ramamoorthy, "[ByzShield: An Efficient and Robust System for Distributed Training]({{ site_url }}/kostas_files/mlsys_2021.pdf)," *Machine Learning and Systems (MLSys)*, April 2021.  
