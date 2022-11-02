@@ -38,6 +38,7 @@ Theoretical and Applied Data Science Initiative, Ames, IA
 - *IEEE* Transactions on Information Theory (TIT) (2022).
 - *IEEE* Transactions on Communications (TCOM) (2022, 2020, 2019).
 - *IEEE/ACM* Transactions on Networking (ToN) (2021).
+- International Conference on Artificial Intelligence and Statistics (AISTATS) (2023).
 - *IEEE* International Symposium on Information Theory (ISIT) (2021, 2020, 2019).
 
 ## Research projects
