@@ -32,7 +32,7 @@ order: 1
 ## Seminar
 - Speeding Up Distributed Computing via Coding ([video](https://www.youtube.com/watch?v=KiSSZ6zXR7Q){:target="_blank" rel="noopener"})  
 July 2020  
-Theoretical and Applied Data Science Initiative, Ames, IA
+Dependable Data-Driven Discovery (D4) Institute, Ames, IA
 
 ## Reviewing service
 - *IEEE* Transactions on Information Theory (TIT) (2022).
