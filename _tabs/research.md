@@ -12,14 +12,14 @@ order: 1
 
 ### Journal papers
 {: #journal-papers }
-- [J2] **K. Konstantinidis** and A. Ramamoorthy, "[Resolvable Designs for Speeding Up Distributed Computing]({{ site_url }}/kostas_files/ton_2020.pdf)," *IEEE/ACM Transactions on Networking (ToN)*, May 2020.  
+- [J2] **K. Konstantinidis** and A. Ramamoorthy, "[Resolvable Designs for Speeding Up Distributed Computing]({{ site_url }}/kostas_files/ton_2020.pdf)," *IEEE/ACM Transactions on Networking (ToN)*, August 2020.  
 [Source code](https://github.com/kkonstantinidis/camrmm){:target="_blank" rel="noopener"}
-- [J1] L. Tang, **K. Konstantinidis** and A. Ramamoorthy, "[Erasure Coding for Distributed Matrix Multiplication for Matrices With Bounded Entries]({{ site_url }}/kostas_files/comml_2019.pdf)," *IEEE Communications Letters (CL)*, January 2019.  
+- [J1] L. Tang, **K. Konstantinidis** and A. Ramamoorthy, "[Erasure Coding for Distributed Matrix Multiplication for Matrices With Bounded Entries]({{ site_url }}/kostas_files/comml_2019.pdf)," *IEEE Communications Letters (COMML)*, January 2019.  
 [Source code](https://github.com/kkonstantinidis/stragglermitmm){:target="_blank" rel="noopener"}
 
 ### Conference papers
 {: #conference-papers }
-- [C4] **K. Konstantinidis** and A. Ramamoorthy, "[Aspis: Robust Detection for Distributed Learning]({{ site_url }}/kostas_files/isit_2022.pdf)," *IEEE International Symposium on Information Theory (ISIT)*, July 2022.  
+- [C4] **K. Konstantinidis** and A. Ramamoorthy, "[Aspis: Robust Detection for Distributed Learning]({{ site_url }}/kostas_files/isit_2022.pdf)," *IEEE International Symposium on Information Theory (ISIT)*, June 2022.  
 [Source code](https://github.com/kkonstantinidis/Aspis){:target="_blank" rel="noopener"}  
 [Presentation video](https://youtu.be/nyOdQOle8bg){:target="_blank" rel="noopener"}
 - [C3] **K. Konstantinidis** and A. Ramamoorthy, "[ByzShield: An Efficient and Robust System for Distributed Training]({{ site_url }}/kostas_files/mlsys_2021.pdf)," *Machine Learning and Systems (MLSys)*, April 2021.  
@@ -35,9 +35,9 @@ July 2020
 Dependable Data-Driven Discovery (D4) Institute, Ames, IA
 
 ## Reviewing service
-- *IEEE* Transactions on Information Theory (TIT) (2022).
 - *IEEE* Transactions on Communications (TCOM) (2022, 2020, 2019).
 - *IEEE/ACM* Transactions on Networking (ToN) (2021).
+- *IEEE* Transactions on Information Theory (TIT) (2022).
 - International Conference on Artificial Intelligence and Statistics (AISTATS) (2023).
 - *IEEE* International Symposium on Information Theory (ISIT) (2021, 2020, 2019).
 
