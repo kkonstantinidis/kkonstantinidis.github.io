@@ -24,7 +24,7 @@ timezone: America/Chicago
 
 title: Konstantinos Konstantinidis     # the main title
 
-tagline: Ph.D. Candidate               # it will display as the sub-title
+tagline: Ph.D.               # it will display as the sub-title
 bottomtagline: Iowa State University   # Kostas: new sub-title below tagline
 
 description: >-                        # used by seo meta and the atom feed
