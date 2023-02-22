@@ -14,7 +14,7 @@ order: 1
 {: #journal-papers }
 - [J2] **K. Konstantinidis** and A. Ramamoorthy, "[Resolvable Designs for Speeding Up Distributed Computing]({{ site_url }}/kostas_files/ton_2020.pdf)," *IEEE/ACM Transactions on Networking (ToN)*, August 2020.  
 [Source code](https://github.com/kkonstantinidis/camrmm){:target="_blank" rel="noopener"}
-- [J1] L. Tang, **K. Konstantinidis** and A. Ramamoorthy, "[Erasure Coding for Distributed Matrix Multiplication for Matrices With Bounded Entries]({{ site_url }}/kostas_files/comml_2019.pdf)," *IEEE Communications Letters (COMML)*, January 2019.  
+- [J1] L. Tang, **K. Konstantinidis** and A. Ramamoorthy, "[Erasure Coding for Distributed Matrix Multiplication for Matrices With Bounded Entries]({{ site_url }}/kostas_files/comml_2018.pdf)," *IEEE Communications Letters (COMML)*, November 2018.  
 [Source code](https://github.com/kkonstantinidis/stragglermitmm){:target="_blank" rel="noopener"}
 
 ### Conference papers
