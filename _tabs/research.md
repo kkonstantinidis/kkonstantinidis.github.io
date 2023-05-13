@@ -7,7 +7,7 @@ order: 1
 
 ## Publications
 ### Preprint
-- [P1] **K. Konstantinidis** and A. Ramamoorthy, "[Efficient Detection and Filtering Systems for Distributed Training]({{ site_url }}/kostas_files/aspis_aspis_plus_2022.pdf)," (preprint), 2022.  
+- [P1] **K. Konstantinidis**, N. Vaswani, and A. Ramamoorthy, "[Detection and Mitigation of Byzantine Attacks in Distributed Training]({{ site_url }}/kostas_files/aspis_aspis_plus_2022.pdf)," (preprint), 2023.  
 [Source code](https://github.com/kkonstantinidis/Aspis){:target="_blank" rel="noopener"}
 
 ### Journal papers
