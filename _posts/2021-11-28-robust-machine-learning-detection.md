@@ -5,7 +5,7 @@ categories: [Research]
 tags: []     # TAG names should always be lowercase
 math: true
 ---
-Relevant papers: [[P1]({{ site.baseurl }}{% link _tabs/research.md %}), [C4]({{ site.baseurl }}{% link _tabs/research.md %})].
+Relevant papers: [[J3]({{ site.baseurl }}{% link _tabs/research.md %}), [C4]({{ site.baseurl }}{% link _tabs/research.md %})].
 
 The following article examines the problem of *Byzantine* behavior in distributed learning setups from the lens of detection. The problem has been introduced in another [article]({% post_url 2021-11-28-robust-machine-learning-filtering %}) discussing our previously proposed method *ByzShield*. In this work, our objective is to initially attempt to detect which nodes behave adversarially or erroneously before resorting to gradient aggregation. We consider attack models ranging from strong ones: $q$ omniscient adversaries with full knowledge of the defense protocol that can change from iteration to iteration to weak ones: $q$ randomly chosen adversaries with limited collusion abilities which only change every few iterations at a time. Our algorithms rely on redundant task assignments coupled with the detection of adversarial behavior. Specifically, we consider clusters of $K$ workers, where each gradient task is assigned to $r$ of them.
 

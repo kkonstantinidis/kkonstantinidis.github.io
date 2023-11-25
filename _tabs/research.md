@@ -6,12 +6,10 @@ order: 1
 
 
 ## Publications
-### Preprint
-- [P1] **K. Konstantinidis**, N. Vaswani, and A. Ramamoorthy, "[Detection and Mitigation of Byzantine Attacks in Distributed Training]({{ site_url }}/kostas_files/aspis_aspis_plus_2022.pdf)," (preprint), 2023.  
-[Source code](https://github.com/kkonstantinidis/Aspis){:target="_blank" rel="noopener"}
-
 ### Journal papers
 {: #journal-papers }
+- [J3] **K. Konstantinidis**, N. Vaswani, and A. Ramamoorthy, "[Detection and Mitigation of Byzantine Attacks in Distributed Training]({{ site_url }}/kostas_files/ton_2023.pdf)," *IEEE/ACM Transactions on Networking (ToN)*, October 2023.  
+[Source code](https://github.com/kkonstantinidis/Aspis){:target="_blank" rel="noopener"}
 - [J2] **K. Konstantinidis** and A. Ramamoorthy, "[Resolvable Designs for Speeding Up Distributed Computing]({{ site_url }}/kostas_files/ton_2020.pdf)," *IEEE/ACM Transactions on Networking (ToN)*, August 2020.  
 [Source code](https://github.com/kkonstantinidis/camrmm){:target="_blank" rel="noopener"}
 - [J1] L. Tang, **K. Konstantinidis** and A. Ramamoorthy, "[Erasure Coding for Distributed Matrix Multiplication for Matrices With Bounded Entries]({{ site_url }}/kostas_files/comml_2018.pdf)," *IEEE Communications Letters (COMML)*, November 2018.  
