@@ -17,7 +17,7 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Chicago
+timezone: America/Los Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -28,12 +28,10 @@ tagline: Ph.D.               # it will display as the sub-title
 bottomtagline: Iowa State University   # Kostas: new sub-title below tagline
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Distributed systems and machine learning enthusiast. Ph.D., Iowa State University.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://kkonstantinidis.github.io/'
 
 github:
   username: kkonstantinidis   # change to your github username
@@ -49,10 +47,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/kkonstantinidis       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/konstantinos-konstantinidis-33187252/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
