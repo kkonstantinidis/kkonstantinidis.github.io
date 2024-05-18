@@ -38,6 +38,7 @@ Dependable Data-Driven Discovery (D4) Institute, Ames, IA
 - *IEEE* Transactions on Information Theory (TIT) (2023, 2022).
 - International Conference on Artificial Intelligence and Statistics (AISTATS) (2023).
 - *IEEE* International Symposium on Information Theory (ISIT) (2021, 2020, 2019).
+- *IEEE* Access (2024).
 
 ## Research projects
 - [Robust Machine Learning - Detection]({% post_url 2021-11-28-robust-machine-learning-detection %})
