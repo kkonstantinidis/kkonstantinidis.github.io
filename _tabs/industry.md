@@ -7,7 +7,7 @@ order: 2
 ## Research Scientist at Meta (Facebook)
 Menlo Park, CA | 12/2023 – Present  
 
-Systems & Infrastructure.
+I work on the Marketplace Recommendation & Delivery Infrastructure team building highly-scalable data pipelines to compute, store, and retrieve machine learning features & training data, primarily in C++ and Python. Also, I implement system changes, flexible APIs, and monitoring to improve the latency and reliability of offline and online feature serving.
 
 ## Software Engineer, Platform at C3 AI
 Redwood City, CA | 09/2022 – 11/2023  
